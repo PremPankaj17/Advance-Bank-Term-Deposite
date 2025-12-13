@@ -1,1 +1,3 @@
 # Advance-Bank-Term-Deposite
+
+This report analyzes the Bank Term Deposit dataset to understand customer behavior and factors influencing subscription to term deposits. Using data analytics techniques, the study examines demographic attributes, financial status, and past marketing interactions to identify patterns associated with successful deposit subscriptions. The analysis highlights key variables such as age, job type, balance, contact duration, and previous campaign outcomes as strong indicators of customer response. Overall, the findings support data-driven decision-making to improve targeted marketing strategies and enhance conversion rates for bank term deposit products.
